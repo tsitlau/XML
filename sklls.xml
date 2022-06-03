@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklls>
+	<one>Базовая теория (Что такое тестирование, багрепорты, документация, виды, методы, направления тестирования и т.п.) SDLC, STLC</one>
+	<two>Что такое клиент-серверная архитектура</two>
+	<three>HTTP Методы запросов на сервер</three>
+	<four>Коды ответов HTTP сервера</four>
+	<five>Структуры HTTP запросов и ответов</five>
+	<six>Что такое JSON, XML. Их структура</six>
+	<seven>Тестирование API через Postman (JS, автотесты API)</seven>
+	<eight>Снятие и чтение логов c внешнего сервера</eight>
+	<nine>Снифинг http web трафика через Charles и Fiddler</nine>
+	<ten>Dev Tools веб браузеров (Google Chrome, FireFox)</ten>
+	<eleven>VPN. (Как работает, зачем нужен, как использовать, варианты инструментов)</eleven>
+	<twelve>Мобильное тестирование</twelve>
+	<thirteen>Особенность iOS, Android, гайдлайны</thirteen>
+	<fourteen>Сборка iOS приложений на XCode</fourteen>
+	<fifteen>Сборка Android приложений на Android Studio</fifteen>
+	<sixteen>ADB (управление андройд девайсами)</sixteen>
+	<seventeen>Настройка прокси и vpn на iOS и Android</seventeen>
+	<eighteen>Перехват (сниффинг) мобильного трафика через Charles и Fiddler на iOS и Android</eighteen>
+	<nineteen>Командная строка (terminal) Linux (копирование, создание, просмотр, перемещение файлов на серверах без графического интерфейса)</nineteen>
+	<twenty>Основы bash скриптинг, автоматизация рутинных задач на сервере</twenty>
+	<twentyOne>Доступ к удалённым серверам</twentyOne>
+	<twentyTwo>Основы SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join)</twentyTwo>
+	<twentyThree>База данных Postgres (установка, настройка и использование)</twentyThree>
+	<twentyFour>Нереляционная база данных Redis (установка, настройка и использование)</twentyFour>
+	<twentyFive>Нагрузочное тестирование в Jmeter</twentyFive>
+	<twentySix>Методология разработки Scrum</twentySix>
+	<twentySeven>Python. (Изучение основ. Создание клиент серверного приложения)</twentySeven>
+</sklls>
