@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
-	<full_name>Tatyana Tsitlau</full_name>
+<aboutme>
+	<fullName>Tatyana Tsitlau</fullName>
 	<age>33</age>
-	<number_of_pets>1</number_of_pets>
-	<desired_salary>900$</desired_salary>
-</root>
+	<pets>1</pets>
+	<desiredSalary>900$</desiredSalary>
+</aboutme>
